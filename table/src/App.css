@@ -1,0 +1,30 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+#d{
+  font-size: larger;
+  font-family:Bernard MT Condensed ;
+}
+.m{
+  margin-top: 50px;
+  border: 2px solid black;
+  border-radius: 20px;
+  background-color: seashell;
+}
+#t{
+  padding-left: 800px;
+}
+#y{
+  margin-top: 170px;
+}
+#q{
+  padding-left:4px ;
+  margin-left: 16px;
+} 
+#a{
+  font-family: Bodoni MT;
+  font-size: large;
+}
